@@ -1,5 +1,5 @@
 """
-Copied from https://towardsdatascience.com/cook-your-first-u-net-in-pytorch-b3297a844cf3/
+Copied from article by Mostafa Wael(link: https://towardsdatascience.com/cook-your-first-u-net-in-pytorch-b3297a844cf3/)
 
 Implementation is rudimentary and long for clarity. There is a lot of scope for 
 reduction in code size.
